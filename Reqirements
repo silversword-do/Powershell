@@ -1,0 +1,4 @@
+Must add the users to the active direcotry useing powershell
+    Learn how to add people to the domain, and remove the users from the csv file for cleanup
+    https://learn.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2022-ps 
+    
