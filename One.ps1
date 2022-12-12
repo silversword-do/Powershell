@@ -26,6 +26,5 @@ foreach ($User in $Users){
         } #end Userprops
         #Write-Output @userProps
         New-ADUser @userProps
-        #Write-Output @userProps
         #Write-Output ($userProps.First) 
 }
